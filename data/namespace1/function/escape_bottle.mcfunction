@@ -1,0 +1,1 @@
+give @s command_block[custom_name='["",{"text":"Escape Bottle","italic":false}]',death_protection={death_effects:[{type:teleport_randomly,diameter:500},{type:play_sound,sound:"entity.enderman.teleport"}]},item_model="minecraft:ominous_bottle"]
